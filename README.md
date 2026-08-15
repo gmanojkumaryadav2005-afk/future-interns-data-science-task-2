@@ -114,6 +114,11 @@ This project demonstrates practical skills in:
 ## Future Improvements
 
 Additional analysis can be added to investigate customer lifetime/tenure patterns, churn rate by tenure groups, payment methods, internet services, and other customer-level factors.
+## Tableau Public Dashboard
+
+View the interactive dashboard here:
+
+[Customer Retention & Churn Analysis Dashboard](https://public.tableau.com/app/profile/manoj.kumar.yadav1269/viz/Customer_Retention_Churn_Analysis_Task2/Dashboard1?publish=yes)
 
 ---
 
